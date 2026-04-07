@@ -14,6 +14,11 @@ This project demonstrates a complete **end-to-end data analytics workflow** usin
 <p align="center">
   <img src="./screenshots/Category & Product.png" width="45%" />
   <img src="./screenshots/Customer Geo.png" width="45%" />
+  <img src="./screenshots/Delivery & Logistics.png" width="45%" />
+  <img src="./screenshots/Payments.png" width="45%" />
+  <img src="./screenshots/Reviews.png" width="45%" />
+  <img src="./screenshots/sales.png" width="45%" />
+  <img src="./screenshots/Seller.png" width="45%" />
 </p>
 
 ## 🛠️ Tech Stack
