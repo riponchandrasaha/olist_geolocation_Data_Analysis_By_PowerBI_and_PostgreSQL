@@ -6,9 +6,15 @@ This project demonstrates a complete **end-to-end data analytics workflow** usin
 ---
 ## 🖼️ Dashboard Preview
 
-| Overview | Sales | Customers |
-|----------|-------|----------|
-| ![](./screenshots/Category & Product.png) | ![](./screenshots/Customer Geo.png) | ![](./screenshots/customers.png) |
+<p align="center">
+  <img src="./screenshots/overview.png" width="45%" />
+  <img src="./screenshots/sales.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="./screenshots/Category & Product.png" width="45%" />
+  <img src="./screenshots/Customer Geo.png" width="45%" />
+</p>
 
 ## 🛠️ Tech Stack
 
